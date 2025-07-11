@@ -28,6 +28,7 @@ nav ul li{
     color: #FFFFFF;
     font-weight: bold;
     border: none;
+    border-radius: 5px;
 }
 .btn-2{
     width: 174px;
@@ -36,6 +37,7 @@ nav ul li{
     color: #FFFFFF;
     font-weight: bold;
     border: none;
+    border-radius: 5px;
 }
 .bg-content{
     text-align: center;
@@ -49,5 +51,42 @@ nav ul li{
     font-size: 65px;
     gap: 37px;
 }
-
+section{
+    display: flex;
+}
+.btn-3{
+     width: 174px;
+    height: 48px;
+     background-color: #4E47FF;
+    color: #FFFFFF;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+.sec-1{
+    max-width: 1140px;
+    max-height: 324px;
+    margin: 116px 160px 116px 140px;
+}
+.content-title{
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+    font-weight: bold;
+    font-size: 42px;
+}
+.content-description{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 24px;
+    margin-bottom: 23px;
+}
+.content-2{
+    max-width:517px ;
+    max-height: 203px;
+}
+.content-photo{
+    width:403px ;
+    height:328px;
+    border-radius: 48px;
+}
     
