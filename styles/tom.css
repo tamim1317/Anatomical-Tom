@@ -29,3 +29,25 @@ nav ul li{
     font-weight: bold;
     border: none;
 }
+.btn-2{
+    width: 174px;
+    height: 48px;
+     background-color: #4E47FF;
+    color: #FFFFFF;
+    font-weight: bold;
+    border: none;
+}
+.bg-content{
+    text-align: center;
+    margin: 309px 267.5px 147.63px 267.5px;
+}
+
+.title{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+    font-weight: bold;
+    font-size: 65px;
+    gap: 37px;
+}
+
+    
