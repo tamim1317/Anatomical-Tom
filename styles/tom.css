@@ -63,7 +63,7 @@ section{
     border: none;
     border-radius: 5px;
 }
-.sec-1{
+.sec-2{
     max-width: 1140px;
     max-height: 324px;
     margin: 116px 160px 116px 140px;
@@ -139,6 +139,11 @@ section{
     text-align: center;
     font-weight: bold;
     font-size: 42px;
+}
+.sec-5{
+    max-width: 1140px;
+    max-height: 324px;
+    margin: 116px 160px 116px 140px;
 }
     .star-icon{
         display: flex;
