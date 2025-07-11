@@ -1,0 +1,31 @@
+.bg{
+ background-image: url(../Assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    height:698px;
+    width: 1440px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+nav ul li{
+    list-style: none;
+}
+.logo{
+    width: 99px;
+    height: 51px;
+    color: #4E47FF;
+    font-weight:800;
+    font-size: 34px;
+}
+.btn-1{
+    width: 132px;
+    height: 48px;
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    font-weight: bold;
+    border: none;
+}
